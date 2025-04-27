@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [**Gmail**](mailto:gargsaksham16@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EP67F7psPHKuMziitFDkclDHbyrIeltv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EknPblvJVxkFDn6KBI7NPNTam9hQ7oJg/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
