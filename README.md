@@ -23,5 +23,5 @@
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamgarg16&show_icons=true&locale=en&layout=compact" alt="sakshamgarg16" /></p>
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/SakshamGarg16/SakshamGarg16/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/SakshamGarg16/SakshamGarg16/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/SakshamGarg16/SakshamGarg16/output/snake.svg)
+
